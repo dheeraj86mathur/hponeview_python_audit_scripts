@@ -7,12 +7,12 @@ https://github.com/HewlettPackard/oneview-python/
 
 Readme for using original python sdk for more development work is available HPONEVIEW_SDK_README.md
 ```
-https://bitbucket.sgx.com/users/hcl.mathurd/repos/hp_oneview_automation/browse/HPONEVIEW_SDK_README.md
+https://../HPONEVIEW_SDK_README.md
 ```
 
 All scripts developed for sgx will be available in below location
 ```
-https://../hp_oneview_automation/browse/sample_final_scripts/
+https://github.com/dheeraj86mathur/hponeview_python_audit_scripts/
 ```
 
 Json file for HP oneview fqdn and credentions 
