@@ -1,0 +1,25 @@
+{
+  "ip": "oneview.fqdn.com",
+  "image_streamer_ip": "oneview.fqdn.com",
+  "api_version": 500,
+  "ssl_certificate": "",
+  "credentials": {
+    "userName": "hpadmin",
+    "authLoginDomain": "local",
+    "password": "Zaq12wsx!",
+    "sessionID": ""
+  },
+  "enclosure_hostname": "",
+  "enclosure_username": "",
+  "enclosure_password": "",
+  "enclosure_group_uri": "",
+  "server_hostname": "",
+  "server_username": "",
+  "server_password": "",
+  "storage_system_hostname": "",
+  "storage_system_username": "",
+  "storage_system_password": "",
+  "power_device_hostname": "",
+  "power_device_username": "",
+  "power_device_password": ""
+}

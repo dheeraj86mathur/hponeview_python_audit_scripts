@@ -1,0 +1,9 @@
+import pandas as pd
+import numpy as np
+
+df  = pd.read_csv(r"../sample_outputs/oneviewqa_allILOusers_30Jul2021.csv")
+df.drop(['S.No','Privilege1','Privilege2','Privilege3','Privilege4','Privilege5','Privilege6','Privilege7','Privilege8','Privilege9','Privilege10'],inplace=True,axis=1)
+table = pd.pivot_table(data=df, index=['User name'],aggfunc={lambda x: len(x.unique())})
+#counts = data.count(axis =1 )
+#print(counts)
+print(table)
