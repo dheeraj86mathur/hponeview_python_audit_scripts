@@ -10,7 +10,7 @@ Readme for using original python sdk for more development work is available HPON
 https://../HPONEVIEW_SDK_README.md
 ```
 
-All scripts developed for sgx will be available in below location
+All scripts developed will be available in below location
 ```
 https://github.com/dheeraj86mathur/hponeview_python_audit_scripts/
 ```
