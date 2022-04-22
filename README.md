@@ -7,43 +7,43 @@ https://github.com/HewlettPackard/oneview-python/
 
 Readme for using original python sdk for more development work is available HPONEVIEW_SDK_README.md
 ```
-https://../HPONEVIEW_SDK_README.md
+https://github.com/dheeraj86mathur/hponeview_python_audit_scripts/tree/main/HPONEVIEW_SDK_README.md
 ```
 
 All scripts developed will be available in below location
 ```
-https://github.com/dheeraj86mathur/hponeview_python_audit_scripts/
+https://github.com/dheeraj86mathur/hponeview_python_audit_scripts/tree/main/sample_final_scripts
 ```
 
 Json file for HP oneview fqdn and credentions 
 ```
-https://.../hp_oneview_automation/sample_final_scripts/config.json
+https://github.com/dheeraj86mathur/hponeview_python_audit_scripts/tree/main/sample_final_scripts/config.json
 ```
 
 Script for getting  all Server hardware inventory from Oneview
 ```
-https://.../hp_oneview_automation/sample_final_scripts/server_hardware_inventory.py
+https://github.com/dheeraj86mathur/hponeview_python_audit_scripts/tree/main/sample_final_scripts/server_hardware_inventory.py
 ```
 
 Script for getting Hostname, UUID & Server Hardware Inventory from Oneview for all servers
 ```
-https://.../hp_oneview_automation/sample_final_scripts/oneview_server_info.py
+https://github.com/dheeraj86mathur/hponeview_python_audit_scripts/tree/main/sample_final_scripts/oneview_server_info.py
 
 ```
 
 Script for getting list of all Local users in a given server hardware 
 ```
-https://.../hp_oneview_automation/sample_final_scripts/ilo_connect.py
+https://github.com/dheeraj86mathur/hponeview_python_audit_scripts/tree/main/sample_final_scripts/ilo_connect.py
 ```
 
 Script for getting list of all local users for all server hardwares in Oneview 
 ```
-https://.../hp_oneview_automation/sample_final_scripts/all_ilo_userlist.py
+https://github.com/dheeraj86mathur/hponeview_python_audit_scripts/tree/main/sample_final_scripts/all_ilo_userlist.py
 ```
 
 Location for sample outputs
 ```
-https://.../hp_oneview_automation/sample_outputs
+https://github.com/dheeraj86mathur/hponeview_python_audit_scripts/tree/main/sample_outputs
 ```
 
 Executing the scripts
