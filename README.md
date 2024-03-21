@@ -48,6 +48,6 @@ https://github.com/dheeraj86mathur/hponeview_python_audit_scripts/tree/main/samp
 
 Executing the scripts
 ```
-cd sgx_scripts
-python sgx_all_ilo_userlist.py 
+cd scripts
+python all_ilo_userlist.py 
 ```
